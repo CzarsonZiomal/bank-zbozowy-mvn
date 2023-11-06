@@ -1,2 +1,2 @@
-[# bank-zbozowy-mvn]
-(https://github.com/CzarsonZiomal/bank-zbozowy-mvn/actions/workflows/<file>/badge.svg)
+![example workflow](https://github.com/<user>/<repo>/actions/workflows/<file>
+/badge.svg)
